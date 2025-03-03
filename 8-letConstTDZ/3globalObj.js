@@ -7,4 +7,5 @@ var b = 100;
 
 //redeclaration is not allowed in let and const
 
-// let a = 20; //syntax error and it won't let run a single line of code
+// let a = 20; //SyntaxError: Identifier 'a' has already been declared at line 1
+//  and it won't let run a single line of code

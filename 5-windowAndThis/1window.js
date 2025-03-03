@@ -2,3 +2,4 @@
 // this
 
 //this === window
+// true

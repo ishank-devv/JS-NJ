@@ -9,4 +9,4 @@ function a() {
 
 var g = 10;
 a();
-console.log(ascope); //ascope is not defined
+console.log(ascope); //Refrence Error: ascope is not defined
