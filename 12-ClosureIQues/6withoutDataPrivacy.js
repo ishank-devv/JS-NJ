@@ -5,7 +5,7 @@ function incrementCounter() {
   count++;
 }
 incrementCounter();
-console.log(count);
+console.log(count); //1
 count = 20;
 count++;
-console.log(count);
+console.log(count); //21

@@ -1,3 +1,3 @@
-console.log(a);
+console.log(a); //undefined
 var a = 7;
-console.log(a);
+console.log(a); //7

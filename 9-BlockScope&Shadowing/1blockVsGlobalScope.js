@@ -1,4 +1,6 @@
 {
+  // console.log(c); // ReferenceError: Cannot access 'b' before initialization
+
   var a = 10;
   let b = 20;
   const c = 30;
